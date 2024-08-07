@@ -1,6 +1,6 @@
 # quantile pooling
 
-This repository contains the PyTorch implementation of the quantile pooling layer as described in the paper "Stacking Deep Set Networks and Pooling by Quantiles" by [Chen et al.](https://openreview.net/forum?id=Lgq1E92h1U).
+This repository contains the CUDA & PyTorch implementation of the quantile pooling layer as described in the paper "Stacking Deep Set Networks and Pooling by Quantiles" by [Chen et al.](https://openreview.net/forum?id=Lgq1E92h1U).
 
 ```
 @inproceedings{chenstacking,
@@ -9,6 +9,7 @@ This repository contains the PyTorch implementation of the quantile pooling laye
     booktitle={Forty-first International Conference on Machine Learning}
 }
 ```
+
 
 ## Installation
 ### Requirements
