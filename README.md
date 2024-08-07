@@ -23,6 +23,12 @@ cd quantile_pooling
 python setup.py install
 ```
 
+To test the installation:
+    
+    ```bash
+    python test.py
+    ```
+
 ## Usage
 Please refer to the script `quantile_pooling/quantile_pooling/quantile_pooling.py`,
 or follow the example in `test.ipynb`. 
